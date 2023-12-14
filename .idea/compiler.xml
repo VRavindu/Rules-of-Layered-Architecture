@@ -8,7 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="tight-coupling" />
         <module name="loose-coupling" />
+        <module name="dependancy-injection" />
+        <module name="property-injection" />
+        <module name="constructor-througth-injection" />
+        <module name="setter-throught-injection" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="loos-coupling" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>

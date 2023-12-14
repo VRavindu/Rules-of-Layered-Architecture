@@ -6,10 +6,14 @@
       <list>
         <option value="$PROJECT_DIR$/tight-coupling/pom.xml" />
         <option value="$PROJECT_DIR$/loose-coupling/pom.xml" />
+        <option value="$PROJECT_DIR$/dependancy-injection/pom.xml" />
+        <option value="$PROJECT_DIR$/property-injection/pom.xml" />
+        <option value="$PROJECT_DIR$/constructor-througth-injection/pom.xml" />
+        <option value="$PROJECT_DIR$/setter-throught-injection/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

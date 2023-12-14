@@ -1,6 +1,7 @@
-package lk.ijse;
+package ijse;
 
-public class Girl{
+public class Girl implements Agreement {
+    @Override
     public void chat(){
         System.out.println("Chat....");
     }
